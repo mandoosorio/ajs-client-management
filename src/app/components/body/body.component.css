@@ -1,0 +1,7 @@
+.main-container {
+    display: flex;
+}
+
+.main-container-left, .main-container-right {
+    width: 50%;
+}
